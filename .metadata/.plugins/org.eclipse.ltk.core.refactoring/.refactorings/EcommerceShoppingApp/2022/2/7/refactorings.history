@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;testScripts.Google&apos; to &apos;ScrollBar&apos;&#x0D;&#x0A;- Original project: &apos;EcommerceShoppingApp&apos;&#x0D;&#x0A;- Original element: &apos;testScripts.Google&apos;&#x0D;&#x0A;- Renamed element: &apos;testScripts.ScrollBar&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Google&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;testScripts{Google.java[Google" matchStrategy="1" name="ScrollBar" qualified="false" references="true" similarDeclarations="false" stamp="1644160801909" textual="false" version="1.0"/>
+</session>

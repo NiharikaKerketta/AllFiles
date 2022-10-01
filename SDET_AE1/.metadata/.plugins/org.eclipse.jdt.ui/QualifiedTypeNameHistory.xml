@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.crm.autodesk.ObjectRepository.ContactsPage"/>
+<fullyQualifiedTypeName name="com.crm.autodesk.ObjectRepository.CreateContactPage"/>
+<fullyQualifiedTypeName name="com.crm.autodesk.ObjectRepository.ContactInfoPage"/>
+<fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="com.crm.autodesk.genericutility.BaseClass"/>
+<fullyQualifiedTypeName name="com.crm.autodesk.ObjectRepository.HomePage"/>
+<fullyQualifiedTypeName name="com.crm.autodesk.ObjectRepository.OrganizationsPage"/>
+<fullyQualifiedTypeName name="com.crm.autodesk.ObjectRepository.CreateOrganizationPage"/>
+<fullyQualifiedTypeName name="com.crm.autodesk.ObjectRepository.OrganizationInfoPage"/>
+<fullyQualifiedTypeName name="org.testng.asserts.SoftAssert"/>
+<fullyQualifiedTypeName name="org.testng.Reporter"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+</qualifiedTypeNameHistroy>

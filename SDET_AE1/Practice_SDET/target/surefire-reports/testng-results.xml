@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="6" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42324" started-at="2021-12-30T11:57:05Z" finished-at="2021-12-30T11:57:48Z">
+    <groups>
+      <group name="RegressionSuite">
+        <method signature="CreateContactTest.demoTest()[pri:0, instance:com.crm.Practice.createContactTest.CreateContactTest@3bbc39f8]" name="demoTest" class="com.crm.Practice.createContactTest.CreateContactTest"/>
+        <method signature="CreateOrganizationTest.demoTest2()[pri:0, instance:com.crm.Practice.orgTest.CreateOrganizationTest@4ae3c1cd]" name="demoTest2" class="com.crm.Practice.orgTest.CreateOrganizationTest"/>
+      </group> <!-- RegressionSuite -->
+    </groups>
+    <test name="Test" duration-ms="42324" started-at="2021-12-30T11:57:05Z" finished-at="2021-12-30T11:57:48Z">
+      <class name="com.crm.Practice.createContactTest.CreateContactTest">
+        <test-method status="PASS" signature="dbConnection()[pri:0, instance:com.crm.Practice.createContactTest.CreateContactTest@3bbc39f8]" name="dbConnection" is-config="true" duration-ms="32" started-at="2021-12-30T11:57:05Z" finished-at="2021-12-30T11:57:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnection -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.crm.Practice.createContactTest.CreateContactTest@3bbc39f8]" name="launchBrowser" is-config="true" duration-ms="6411" started-at="2021-12-30T11:57:05Z" finished-at="2021-12-30T11:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="loginToApp()[pri:0, instance:com.crm.Practice.createContactTest.CreateContactTest@3bbc39f8]" name="loginToApp" is-config="true" duration-ms="6220" started-at="2021-12-30T11:57:12Z" finished-at="2021-12-30T11:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method status="PASS" signature="demoTest()[pri:0, instance:com.crm.Practice.createContactTest.CreateContactTest@3bbc39f8]" name="demoTest" duration-ms="0" started-at="2021-12-30T11:57:18Z" finished-at="2021-12-30T11:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoTest -->
+        <test-method status="PASS" signature="logoutApp()[pri:0, instance:com.crm.Practice.createContactTest.CreateContactTest@3bbc39f8]" name="logoutApp" is-config="true" duration-ms="8265" started-at="2021-12-30T11:57:18Z" finished-at="2021-12-30T11:57:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.crm.Practice.createContactTest.CreateContactTest@3bbc39f8]" name="closeBrowser" is-config="true" duration-ms="883" started-at="2021-12-30T11:57:26Z" finished-at="2021-12-30T11:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeConnection()[pri:0, instance:com.crm.Practice.createContactTest.CreateContactTest@3bbc39f8]" name="closeConnection" is-config="true" duration-ms="0" started-at="2021-12-30T11:57:48Z" finished-at="2021-12-30T11:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeConnection -->
+      </class> <!-- com.crm.Practice.createContactTest.CreateContactTest -->
+      <class name="com.crm.Practice.orgTest.CreateOrganizationTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.crm.Practice.orgTest.CreateOrganizationTest@4ae3c1cd]" name="launchBrowser" is-config="true" duration-ms="5366" started-at="2021-12-30T11:57:27Z" finished-at="2021-12-30T11:57:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="loginToApp()[pri:0, instance:com.crm.Practice.orgTest.CreateOrganizationTest@4ae3c1cd]" name="loginToApp" is-config="true" duration-ms="5720" started-at="2021-12-30T11:57:33Z" finished-at="2021-12-30T11:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method status="PASS" signature="demoTest2()[pri:0, instance:com.crm.Practice.orgTest.CreateOrganizationTest@4ae3c1cd]" name="demoTest2" duration-ms="0" started-at="2021-12-30T11:57:38Z" finished-at="2021-12-30T11:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoTest2 -->
+        <test-method status="PASS" signature="logoutApp()[pri:0, instance:com.crm.Practice.orgTest.CreateOrganizationTest@4ae3c1cd]" name="logoutApp" is-config="true" duration-ms="8499" started-at="2021-12-30T11:57:38Z" finished-at="2021-12-30T11:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.crm.Practice.orgTest.CreateOrganizationTest@4ae3c1cd]" name="closeBrowser" is-config="true" duration-ms="865" started-at="2021-12-30T11:57:47Z" finished-at="2021-12-30T11:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.crm.Practice.orgTest.CreateOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
